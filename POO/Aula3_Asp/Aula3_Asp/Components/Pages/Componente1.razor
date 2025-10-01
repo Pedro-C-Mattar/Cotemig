@@ -1,0 +1,55 @@
+﻿@page "/Componente1"
+@rendermode InteractiveServer
+
+<h1>Vinculação de Dados</h1>
+<h4>Um h4 recebendo o valor de um atributo</h4>
+
+<h3>@mensagem</h3>
+
+<hr>
+<h4>Input text recebendo o valor de um atributo</h4>
+
+<input type="text" @bind=@mensagem />
+
+@code{
+    private string mensagem = "Olá Blazor";
+}
+
+<hr>
+
+<h1>Vinculação de Dados</h1>
+<h1>Bind Exemplos</h1>
+
+<p><label>inputValue: <input type="text" @bind="inputValue" /></label></p>
+<p><label>InputValue: <input type="text" @bind="InputValue" /></label></p>
+
+<ul>
+    <li><code>inputValue</code>:@inputValue</li>
+    <li><code>InputValue</code>:@InputValue</li>
+</ul>
+
+@code{
+    private string inputValue;
+    private string InputValue {get; set;}
+}
+
+<hr>
+
+<h1>Vinculação de Dados</h1>
+<h1>Bind Exemplos</h1>
+
+@*@bind:event= "oninput" usa de eventos do elemento para manipular os dados*@
+@*Quando o input recebe o foco tudo que for inserido dentro dele vai sendo automaticamente transferido para o atributo*@
+
+<p><label>inputValue: <input type="text" @bind="inputValue2" @bind:event="oninput" /></label></p>
+<p><label>InputValue: <input type="text" @bind="InputValue2" @bind:event="oninput" /></label></p>
+
+<ul>
+    <li><code>inputValue</code>:@inputValue2</li>
+    <li><code>InputValue</code>:@InputValue2</li>
+</ul>
+
+@code {
+    private string inputValue2;
+    private string InputValue2 { get; set; }
+}

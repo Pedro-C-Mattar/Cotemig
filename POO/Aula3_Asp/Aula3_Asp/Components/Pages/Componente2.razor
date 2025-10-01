@@ -1,0 +1,33 @@
+﻿@page "/Componente2"
+@rendermode InteractiveServer
+
+<h1>Exercicio</h1>
+<h2>Inserindo dados em cartão vázio</h2>
+
+<h3>Digite o Texto do Cartão</h3>
+<input type="text" @bind=@txtCart @bind:event="oninput" />
+<h3>Digite o Numero do Cartão</h3>
+<input type="text" @bind=@txtNum @bind:event="oninput" />
+<h3>Digite o Nome do Titular do Cartão</h3>
+<input type="text" @bind=@txtTitu @bind:event="oninput" />
+<h3>Digite a Bandeira do Cartão</h3>
+<input type="text" @bind=@txtBand @bind:event="oninput" />
+
+<br>
+<br>
+<br>
+
+<h3>Cartão: @txtCart</h3>
+<h3>Número de Cartão: @txtNum</h3>
+<h3>Titular: @txtTitu</h3>
+<h3>Bandeira: @txtBand</h3>
+<br>
+<button>Gravar</button>
+
+@code{
+    private string txtCart;
+    private string txtNum;
+    private string txtTitu;
+    private string txtBand;
+}
+
