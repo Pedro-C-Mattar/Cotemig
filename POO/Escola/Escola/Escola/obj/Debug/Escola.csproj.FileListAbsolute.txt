@@ -1,0 +1,16 @@
+D:\Projects\Escola\Escola\bin\Debug\Escola.exe.config
+D:\Projects\Escola\Escola\bin\Debug\Escola.exe
+D:\Projects\Escola\Escola\bin\Debug\Escola.pdb
+D:\Projects\Escola\Escola\obj\Debug\Escola.csproj.AssemblyReference.cache
+D:\Projects\Escola\Escola\obj\Debug\Escola.Form1.resources
+D:\Projects\Escola\Escola\obj\Debug\Escola.Form2.resources
+D:\Projects\Escola\Escola\obj\Debug\Escola.Form3.resources
+D:\Projects\Escola\Escola\obj\Debug\Escola.Form4.resources
+D:\Projects\Escola\Escola\obj\Debug\Escola.Form5.resources
+D:\Projects\Escola\Escola\obj\Debug\Escola.Form6.resources
+D:\Projects\Escola\Escola\obj\Debug\Escola.Properties.Resources.resources
+D:\Projects\Escola\Escola\obj\Debug\Escola.csproj.GenerateResource.cache
+D:\Projects\Escola\Escola\obj\Debug\Escola.csproj.CoreCompileInputs.cache
+D:\Projects\Escola\Escola\obj\Debug\Escola.exe
+D:\Projects\Escola\Escola\obj\Debug\Escola.pdb
+D:\Projects\Escola\Escola\obj\Debug\Escola.Form7.resources
