@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\POO\\Aula2_Asp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Aula2_Asp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Aula2_Asp.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\POO\\Aula2_Asp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "H:\\POO\\Aula2_Asp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\POO\\Aula2_Asp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\POO\\Aula2_Asp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Aula2_Asp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Aula2_Asp.props",
+      "PackagePath": "build\\Aula2_Asp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Aula2_Asp.props",
+      "PackagePath": "buildMultiTargeting\\Aula2_Asp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Aula2_Asp.props",
+      "PackagePath": "buildTransitive\\Aula2_Asp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

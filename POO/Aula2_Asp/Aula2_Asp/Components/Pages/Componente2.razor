@@ -1,0 +1,13 @@
+﻿@page "/Componente2"
+<h1>Criando o 2o Componente:</h1>
+<h2>Estruturas de Repetição</h2>
+<h3>Crie uma lista para receber uma contagem regressiva de 5 ate 0.</h3>
+@for (int i = 5; i >= @x; i--)
+{
+    <ul>
+        <li>Contagem Regressiva: @i</li>
+    </ul>
+}
+@code {
+    private int x = 0;
+}

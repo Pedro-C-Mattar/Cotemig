@@ -1,0 +1,18 @@
+﻿@page "/Componente1"
+<h1>Criando o 1o Componente:</h1>
+<h2>Estruturas de Repetição</h2>
+<h3>
+    Crie 5 caixas de texto para inserção de notas dos
+    Alunos.
+</h3>
+@for (int i = 1; i <= @x; i++)
+{
+    <h3>Digite o Valor da @i nota:</h3>
+    <input type="text" />
+    <br>
+}
+<br>
+<button>Gravar</button>
+@code {
+    private int x = 5;
+}

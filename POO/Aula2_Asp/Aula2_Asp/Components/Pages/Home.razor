@@ -1,0 +1,45 @@
+﻿@page "/"
+
+<PageTitle>Exemplo do uso de Diretivas</PageTitle>
+
+<h1>Usado para criar atributos</h1>
+
+@code{
+    private int numero = 10;
+    private int soma = 12;
+}
+
+<h3>@numero</h3>
+
+<h1>Usado para criar variaveis</h1>
+
+@{
+    var numeroVar = 10;
+    numeroVar = soma;
+}
+
+<h3>@numeroVar</h3>
+
+<hr>
+
+<h1>Estruturas logicas tbm podem ser criadas sem o
+@*
+@
+*@
+</h1>
+
+@{
+    var i = 5;
+    if (i > 5)
+    {
+        <h3>Maior</h3>
+    }
+    else if (i < 5)
+    {
+        <h3>Menor</h3>
+    }
+    else if (i == 5)
+    {
+        <h3>Igual</h3>
+    }
+}
