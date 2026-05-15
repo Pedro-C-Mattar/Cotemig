@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudBlazor", "CrudBlazor\CrudBlazor.csproj", "{3481F0C7-1897-4AAD-B80D-EC23969A681C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudBlazor.Client", "CrudBlazor.Client\CrudBlazor.Client.csproj", "{C531944E-6A69-4997-A004-25E6723D8300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3481F0C7-1897-4AAD-B80D-EC23969A681C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3481F0C7-1897-4AAD-B80D-EC23969A681C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3481F0C7-1897-4AAD-B80D-EC23969A681C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3481F0C7-1897-4AAD-B80D-EC23969A681C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C531944E-6A69-4997-A004-25E6723D8300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C531944E-6A69-4997-A004-25E6723D8300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C531944E-6A69-4997-A004-25E6723D8300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C531944E-6A69-4997-A004-25E6723D8300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {875C4792-2E94-462C-883E-D3E6E4124D4F}
+	EndGlobalSection
+EndGlobal

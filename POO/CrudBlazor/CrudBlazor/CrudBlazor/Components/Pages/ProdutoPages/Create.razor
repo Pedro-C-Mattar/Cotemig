@@ -1,0 +1,43 @@
+﻿@page "/produtos/create"
+@inject CrudBlazor.Data.ApplicationDbContext DB
+@using CrudBlazor.Data
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create</PageTitle>
+
+<h1>Create</h1>
+
+<h4>Produto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <EditForm method="post" Model="Produto" OnValidSubmit="AddProduto" FormName="create" Enhance>
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" />
+            <div class="mb-3">
+                <label for="name" class="form-label">Name:</label> 
+                <InputText id="name" @bind-Value="Produto.Name" class="form-control" /> 
+                <ValidationMessage For="() => Produto.Name" class="text-danger" /> 
+            </div>        
+            <button type="submit" class="btn btn-primary">Create</button>
+        </EditForm>
+    </div>
+</div>
+
+<div>
+    <a href="/produtos">Back to List</a>
+</div>
+
+@code {
+
+    [SupplyParameterFromForm]
+    public Produto Produto { get; set; } = new();
+
+    // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
+    public async Task AddProduto()
+    {
+        DB.Prod.Add(Produto);
+        await DB.SaveChangesAsync();
+        NavigationManager.NavigateTo("/produtos");
+    }
+}

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matheus Suarez - Portifolio</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.4/dist/aos.css">
+    <script src="script.js" defer></script>
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+</head>
+
+<body>
+
+    <header class="navbar">
+        <div class="logo">Matheus Suarez</div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#habilidades">Habilidades</a></li>
+                <li><a href="#projetos">Projetos</a></li>
+                <li><a href="#contato">Contato</a></li>
+                <button id="darkToggle" aria-label="Alternar tema">🌙</button>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio" class="hero" data-aos="fade-up">
+        <div class="hero-content">
+            <h1>Matheus Suarez <br><span class="highlight">Pimentel</span></h1>
+            <p class="subtext" id="typed">
+                Estudante de Engenharia de Computação | Desenvolvedor de Soluções
+            </p>
+            <p class="desc">
+                Transformando ideias em código e construindo soluções digitais intuitivas e eficientes.
+            </p>
+            <div class="buttons">
+                <a href="#projetos" class="btn btn-green">Ver Meus Projetos</a>
+                <a href="#contato" class="btn btn-orange">Entrar em Contato</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="sobre" class="about" data-aos="fade-up">
+        <h2>Sobre <span class="highlight">Mim</span></h2>
+        <div class="about-container">
+            <div class="about-text">
+                <p>
+                    Sou estudante de Curso Técnico em informática apaixonado por tecnologia e inovação.
+                    Minha jornada começou com a curiosidade de entender como as coisas funcionam,
+                    e hoje me dedico a criar soluções que fazem a diferença.
+                </p>
+                <p>
+                    Tenho experiência em desenvolvimento web, ciência de dados e automação de processos.
+                    Acredito que a tecnologia deve ser uma ferramenta para resolver problemas reais
+                    e melhorar a vida das pessoas.
+                </p>
+                <p>
+                    Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente,
+                    colaborar em projetos inovadores e contribuir para o avanço tecnológico.
+                </p>
+                <a href="https://github.com/mateussZen" target="_blank" class="btn btn-orange">
+                    Ver GitHub
+                </a>
+            </div>
+            <div class="about-icon">
+                <div class="circle">
+                    <span>&lt;/&gt;</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="habilidades" class="skills" data-aos="fade-up">
+        <h2>Minhas <span class="highlight">Habilidades</span></h2>
+        <div class="skills-container">
+            <div class="card hard-skills">
+                <h3 class="orange">Hard Skills</h3>
+                <div class="skill-group">
+                    <p>Linguagens</p>
+                    <div class="tags">
+                        <span>SQL</span>
+                        <span>C#</span>
+                        <span>HTML</span>
+                    </div>
+                </div>
+                <div class="skill-group">
+                    <p>Ferramentas</p>
+                    <div class="tags">
+                        <span class="git">◆ Git</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card soft-skills">
+                <h3 class="teal">Soft Skills</h3>
+                <ul>
+                    <li>💬 Comunicação Efetiva</li>
+                    <li>💡 Resolução de Problemas</li>
+                    <li>👥 Trabalho em Equipe</li>
+                    <li>🚀 Proatividade</li>
+                    <li>🧠 Pensamento Crítico</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="projetos" class="projects" data-aos="fade-up">
+        <h2>Meus <span class="highlight">Projetos</span></h2>
+        <div class="projects-container">
+            <div class="project-card">
+                <img src="improj.png" alt="Dashboard Analytics">
+                <h3>Dashboard Analytics</h3>
+                <div class="links">
+                    <a href="https://github.com/mateussZen?tab=repositories" class="orange-link">🧩 Código</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <img src="improj.png" alt="E-commerce Mobile">
+                <h3>E-commerce Mobile</h3>
+                <div class="links">
+                    <a href="https://github.com/mateussZen?tab=repositories" class="orange-link">🧩 Código</a>
+                </div>
+            </div>
+
+            <div class="project-card">
+                <img src="improj.png" alt="ML Predictor">
+                <h3>ML Predictor</h3>
+                <div class="links">
+                    <a href="https://github.com/mateussZen?tab=repositories" class="orange-link">🧩 Código</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contato" class="contact" data-aos="fade-up">
+        <h2>Vamos <span class="highlight">Conversar?</span></h2>
+        <p class="contact-subtext">
+            Estou aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato.
+        </p>
+
+        <div class="contact-container">
+            <div class="contact-info">
+                <a href="https://www.linkedin.com/" class="contact-item linkedin">
+                    <span class="icon">in</span> LinkedIn
+                </a>
+                <a href="mailto:matheus@exemplo.com" class="contact-item email">
+                    <span class="icon">@</span> Mateus@email.com
+                </a>
+                <a href="https://github.com/mateussZen" class="contact-item github">
+                    <span class="icon">🐙</span> GitHub
+                </a>
+            </div>
+
+            <form class="contact-form">
+                <label for="name">Nome</label>
+                <input type="text" id="name" name="name" placeholder="Seu nome" required>
+
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" placeholder="Seu email" required>
+
+                <label for="telefone">Telefone</label>
+                <input type="tel" id="telefone" name="telefone" placeholder="(00) 00000-0000">
+
+                <label for="message">Mensagem</label>
+                <textarea id="message" rows="4" placeholder="Escreva sua mensagem..." required></textarea>
+
+                <button type="submit" class="btn btn-green">Enviar Mensagem</button>
+            </form>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <h3>Matheus Suarez Pimentel</h3>
+        <p>matheus@email.com</p>
+        <a href="https://www.linkedin.com/" class="linkedin-footer">LinkedIn</a>
+        <p>© 2025 Matheus Suarez Pimentel</p>
+    </footer>
+<script src="script.js"></script>
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+</body>
+</html>

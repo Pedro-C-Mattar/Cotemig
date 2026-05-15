@@ -1,0 +1,86 @@
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\proj importante form.exe.config
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\proj importante form.exe
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\proj importante form.pdb
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\BouncyCastle.Crypto.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\Google.Protobuf.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\K4os.Compression.LZ4.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\K4os.Hash.xxHash.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\MySql.Data.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Buffers.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.IO.Pipelines.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Memory.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Numerics.Vectors.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\ZstdSharp.dll
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\BouncyCastle.Crypto.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\Google.Protobuf.pdb
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\Google.Protobuf.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\K4os.Compression.LZ4.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\K4os.Hash.xxHash.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\MySql.Data.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Buffers.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.IO.Pipelines.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Memory.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Numerics.Vectors.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\lógi\3° Trimestre\proj importante\proj importante form\obj\Debug\proj importante form.csproj.AssemblyReference.cache
+H:\lógi\3° Trimestre\proj importante\proj importante form\obj\Debug\proj importante form.csproj.SuggestedBindingRedirects.cache
+H:\lógi\3° Trimestre\proj importante\proj importante form\obj\Debug\proj_importante_form.frmAluno.resources
+H:\lógi\3° Trimestre\proj importante\proj importante form\obj\Debug\proj_importante_form.Properties.Resources.resources
+H:\lógi\3° Trimestre\proj importante\proj importante form\obj\Debug\proj importante form.csproj.GenerateResource.cache
+H:\lógi\3° Trimestre\proj importante\proj importante form\obj\Debug\proj importante form.csproj.CoreCompileInputs.cache
+H:\lógi\3° Trimestre\proj importante\proj importante form\obj\Debug\proj importante form.csproj.CopyComplete
+H:\lógi\3° Trimestre\proj importante\proj importante form\obj\Debug\proj importante form.exe
+H:\lógi\3° Trimestre\proj importante\proj importante form\obj\Debug\proj importante form.pdb
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\proj importante form.exe.config
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\proj importante form.exe
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\proj importante form.pdb
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\BouncyCastle.Crypto.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\Google.Protobuf.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\K4os.Compression.LZ4.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\K4os.Hash.xxHash.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\MySql.Data.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Buffers.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.IO.Pipelines.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Memory.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Numerics.Vectors.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\ZstdSharp.dll
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\BouncyCastle.Crypto.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\Google.Protobuf.pdb
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\Google.Protobuf.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\K4os.Compression.LZ4.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\K4os.Hash.xxHash.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\MySql.Data.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Buffers.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.IO.Pipelines.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Memory.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Numerics.Vectors.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\obj\Debug\proj importante form.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\obj\Debug\proj importante form.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\obj\Debug\proj_importante_form.frmAluno.resources
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\obj\Debug\proj_importante_form.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\obj\Debug\proj importante form.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\obj\Debug\proj importante form.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\obj\Debug\proj importante form.csproj.CopyComplete
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\obj\Debug\proj importante form.exe
+H:\Visual Studio 2022\Projects\proj importante\proj importante form\obj\Debug\proj importante form.pdb

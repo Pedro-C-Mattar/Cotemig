@@ -1,0 +1,53 @@
+﻿@page "/paises/delete"
+@inject CrudBlazor.Data.ApplicationDbContext DB
+@using CrudBlazor.Data
+@inject NavigationManager NavigationManager
+@using Microsoft.EntityFrameworkCore
+
+<PageTitle>Delete</PageTitle>
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Pais</h4>
+    <hr />
+    @if (pais is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+        <dl class="row">
+            <dt class="col-sm-2">Name</dt>
+            <dd class="col-sm-10">@pais.Name</dd>
+        </dl>
+        <EditForm method="post" Model="pais" OnValidSubmit="DeletePais" FormName="delete" Enhance>
+            <button type="submit" class="btn btn-danger" disabled="@(pais is null)">Delete</button> |
+            <a href="/paises">Back to List</a>
+        </EditForm>
+    }
+</div>
+
+@code {
+    Pais? pais;
+
+    [SupplyParameterFromQuery]
+    public int Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        pais = await DB.Pai.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (pais is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+
+    public async Task DeletePais()
+    {
+        DB.Pai.Remove(pais!);
+        await DB.SaveChangesAsync();
+        NavigationManager.NavigateTo("/paises");
+    }
+}

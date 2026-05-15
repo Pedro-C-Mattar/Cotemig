@@ -1,0 +1,22 @@
+﻿@page "/paises"
+@using Microsoft.AspNetCore.Components.QuickGrid
+@inject CrudBlazor.Data.ApplicationDbContext DB
+@using CrudBlazor.Data
+
+<PageTitle>Index</PageTitle>
+
+<h1>Index</h1>
+
+<p>
+    <a href="paises/create">Create New</a>
+</p>
+
+<QuickGrid Class="table" Items="DB.Pai">
+    <PropertyColumn Property="pais => pais.Name" />
+
+    <TemplateColumn Context="pais">
+        <a href="@($"paises/edit?id={pais.Id}")">Edit</a> |
+        <a href="@($"paises/details?id={pais.Id}")">Details</a> |
+        <a href="@($"paises/delete?id={pais.Id}")">Delete</a>
+    </TemplateColumn>
+</QuickGrid>

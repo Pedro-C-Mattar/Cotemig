@@ -1,0 +1,99 @@
+﻿@page "/filmes/edit"
+@inject CrudBlazor.Data.ApplicationDbContext DB
+@using CrudBlazor.Data
+@inject NavigationManager NavigationManager
+@using Microsoft.EntityFrameworkCore
+
+<PageTitle>Edit</PageTitle>
+
+<h1>Edit</h1>
+
+<h4>Filmes</h4>
+<hr />
+@if (Filme is null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <EditForm method="post" Model="Filme" OnValidSubmit="UpdateFilmes" FormName="edit" Enhance>
+                <DataAnnotationsValidator />
+                <ValidationSummary />
+             <input type="hidden" name="Filme.Id" value="@Filme.Id" />
+                <div class="mb-3">
+                <label for="nome" class="form-label">Nome:</label> 
+                 <InputText id="nome" @bind-Value="Filme.Nome" class="form-control" />
+                 <ValidationMessage For="() => Filme.Nome" class="text-danger" />
+
+                <label for="tipo" class="form-label">Tipo:</label> 
+                 <InputText id="tipo" @bind-Value="Filme.Tipo" class="form-control" />
+                 <ValidationMessage For="() => Filme.Tipo" class="text-danger" />
+
+                <label for="classificacaoindicativa" class="form-label">Classificacao Indicativa:</label> 
+                 <InputText id="classificacaoindicativa" @bind-Value="Filme.ClassificacaoIndicativa" class="form-control" />
+                 <ValidationMessage For="() => Filme.ClassificacaoIndicativa" class="text-danger" />
+
+                <label for="duracao" class="form-label">Duracao:</label> 
+                 <InputText id="duracao" @bind-Value="Filme.Duracao" class="form-control" />
+                 <ValidationMessage For="() => Filme.Duracao" class="text-danger" />
+
+                </div>
+                <button type="submit" class="btn btn-primary">Save</button>
+            </EditForm>
+        </div>
+    </div>
+}
+
+<div>
+    <a href="/filmes">Back to List</a>
+</div>
+
+@code {
+    [SupplyParameterFromQuery]
+    public int Id { get; set; }
+
+    [SupplyParameterFromForm]
+    public Filmes? Filme { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Filme ??= await DB.Film.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (Filme is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+
+    // To protect from overposting attacks, enable the specific properties you want to bind to.
+    // For more details, see https://aka.ms/RazorPagesCRUD.
+    public async Task UpdateFilmes()
+    {
+        DB.Attach(Filme!).State = EntityState.Modified;
+
+        try
+        {
+            await DB.SaveChangesAsync();
+        }
+        catch (DbUpdateConcurrencyException)
+        {
+            if (!ProdutoExists(Filme!.Id))
+            {
+                NavigationManager.NavigateTo("notfound");
+            }
+            else
+            {
+                throw;
+            }
+        }
+
+        NavigationManager.NavigateTo("/filmes");
+    }
+
+    bool ProdutoExists(int id)
+    {
+        return DB.Film.Any(e => e.Id == id);
+    }
+}

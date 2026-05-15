@@ -1,0 +1,56 @@
+﻿@page "/filmes/create"
+@inject CrudBlazor.Data.ApplicationDbContext DB
+@using CrudBlazor.Data
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create</PageTitle>
+
+<h1>Create</h1>
+
+<h4>Filmes</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <EditForm method="post" Model="Filmes" OnValidSubmit="AddFilmes" FormName="create" Enhance>
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" />
+            <div class="mb-3">
+                <label for="nome" class="form-label">Nome:</label> 
+                <InputText id="nome" @bind-Value="Filmes.Nome" class="form-control" /> 
+                <ValidationMessage For="() => Filmes.Nome" class="text-danger" /> 
+
+                <label for="tipo" class="form-label">Tipo:</label> 
+                <InputText id="tipo" @bind-Value="Filmes.Tipo" class="form-control" /> 
+                <ValidationMessage For="() => Filmes.Tipo" class="text-danger" /> 
+
+                <label for="classificacaoindicativa" class="form-label">Classificacao Indicativa:</label> 
+                <InputText id="classificacaoindicativa" @bind-Value="Filmes.ClassificacaoIndicativa" class="form-control" /> 
+                <ValidationMessage For="() => Filmes.ClassificacaoIndicativa" class="text-danger" /> 
+
+                <label for="duracao" class="form-label">Duracao:</label> 
+                <InputText id="duracao" @bind-Value="Filmes.Duracao" class="form-control" /> 
+                <ValidationMessage For="() => Filmes.Duracao" class="text-danger" />
+
+            </div>        
+            <button type="submit" class="btn btn-primary">Create</button>
+        </EditForm>
+    </div>
+</div>
+
+<div>
+    <a href="/filmes">Back to List</a>
+</div>
+
+@code {
+
+    [SupplyParameterFromForm]
+    public Filmes Filmes { get; set; } = new();
+
+    // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
+    public async Task AddFilmes()
+    {
+        DB.Film.Add(Filmes);
+        await DB.SaveChangesAsync();
+        NavigationManager.NavigateTo("/filmes");
+    }
+}

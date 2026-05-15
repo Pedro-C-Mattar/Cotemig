@@ -1,0 +1,182 @@
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.exe.config
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.exe
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.pdb
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\MySql.Data.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\MySql.Data.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmPrincipal.resources
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmUsuario.resources
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.Properties.Resources.resources
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.GenerateResource.Cache
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.exe
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.pdb
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmTecnico.resources
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.exe.config
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.exe
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.pdb
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Crypto.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Hash.xxHash.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\MySql.Data.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Buffers.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.IO.Pipelines.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Memory.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Numerics.Vectors.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\ZstdSharp.dll
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Crypto.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.pdb
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Hash.xxHash.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\MySql.Data.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Buffers.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.IO.Pipelines.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Memory.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Numerics.Vectors.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.AssemblyReference.cache
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.SuggestedBindingRedirects.cache
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmPrincipal.resources
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmTecnico.resources
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmUsuario.resources
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.Properties.Resources.resources
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.GenerateResource.cache
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.CoreCompileInputs.cache
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.CopyComplete
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.exe
+H:\3B1\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.pdb
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.exe.config
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.exe
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.pdb
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Crypto.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Hash.xxHash.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\MySql.Data.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Buffers.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.IO.Pipelines.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Memory.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Numerics.Vectors.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\ZstdSharp.dll
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Crypto.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.pdb
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Hash.xxHash.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\MySql.Data.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Buffers.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.IO.Pipelines.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Memory.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Numerics.Vectors.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.AssemblyReference.cache
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.SuggestedBindingRedirects.cache
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmPrincipal.resources
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmTecnico.resources
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmUsuario.resources
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.Properties.Resources.resources
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.GenerateResource.cache
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.CoreCompileInputs.cache
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.CopyComplete
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.exe
+H:\POO\3° Etapa\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.pdb
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.exe.config
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.exe
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Prj_OrdemServico.pdb
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Crypto.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Hash.xxHash.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\MySql.Data.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Buffers.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.IO.Pipelines.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Memory.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Numerics.Vectors.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\ZstdSharp.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Crypto.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.pdb
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Hash.xxHash.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\MySql.Data.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Buffers.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.IO.Pipelines.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Memory.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Numerics.Vectors.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.AssemblyReference.cache
+H:\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmPrincipal.resources
+H:\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmTecnico.resources
+H:\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.FrmUsuario.resources
+H:\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.Properties.Resources.resources
+H:\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.GenerateResource.cache
+H:\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.CoreCompileInputs.cache
+H:\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.CopyComplete
+H:\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.exe
+H:\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.pdb
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Cryptography.dll
+H:\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Cryptography.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Crypto.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Cryptography.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Hash.xxHash.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Buffers.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.IO.Pipelines.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Memory.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Numerics.Vectors.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\ZstdSharp.dll
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Crypto.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\BouncyCastle.Cryptography.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.pdb
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Google.Protobuf.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\K4os.Hash.xxHash.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Buffers.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.IO.Pipelines.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Memory.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Numerics.Vectors.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.AssemblyReference.cache
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.CoreCompileInputs.cache
+H:\POO\Prj_OrdemServico\Prj_OrdemServico\obj\Debug\Prj_OrdemServico.csproj.CopyComplete

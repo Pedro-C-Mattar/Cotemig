@@ -1,0 +1,51 @@
+﻿@page "/filmes/details"
+@inject CrudBlazor.Data.ApplicationDbContext DB
+@using CrudBlazor.Data
+@inject NavigationManager NavigationManager
+@using Microsoft.EntityFrameworkCore
+
+<PageTitle>Details</PageTitle>
+
+<h1>Details</h1>
+
+<div>
+    <h4>Filmes</h4>
+    <hr />
+    @if (filme is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+        <dl class="row">
+            <dt class="col-sm-2">Nome</dt>
+            <dd class="col-sm-10">@filme.Nome</dd>
+            <dt class="col-sm-2">Tipo</dt>
+            <dd class="col-sm-10">@filme.Tipo</dd>
+            <dt class="col-sm-2">Classificacao Indicativa</dt>
+            <dd class="col-sm-10">@filme.ClassificacaoIndicativa</dd>
+            <dt class="col-sm-2">Duracao</dt>
+            <dd class="col-sm-10">@filme.Duracao</dd>
+        </dl>
+        <div>
+            <a href="@($"/filmes/edit?id={filme.Id}")">Edit</a> |
+            <a href="@($"/filmes")">Back to List</a>
+        </div>
+    }
+</div>
+
+@code {
+    Filmes? filme;
+
+    [SupplyParameterFromQuery]
+    public int Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        filme = await DB.Film.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (filme is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+}

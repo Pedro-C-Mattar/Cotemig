@@ -1,0 +1,45 @@
+﻿@page "/paises/details"
+@inject CrudBlazor.Data.ApplicationDbContext DB
+@using CrudBlazor.Data
+@inject NavigationManager NavigationManager
+@using Microsoft.EntityFrameworkCore
+
+<PageTitle>Details</PageTitle>
+
+<h1>Details</h1>
+
+<div>
+    <h4>Pais</h4>
+    <hr />
+    @if (pais is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+        <dl class="row">
+            <dt class="col-sm-2">Name</dt>
+            <dd class="col-sm-10">@pais.Name</dd>
+        </dl>
+        <div>
+            <a href="@($"/paises/edit?id={pais.Id}")">Edit</a> |
+            <a href="@($"/paises")">Back to List</a>
+        </div>
+    }
+</div>
+
+@code {
+    Pais? pais;
+
+    [SupplyParameterFromQuery]
+    public int Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        pais = await DB.Pai.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (pais is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+}

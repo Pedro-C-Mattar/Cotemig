@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3481F0C7-1897-4AAD-B80D-EC23969A681C}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\samenezes\\desktop\\poo\\crudblazor\\crudblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3481F0C7-1897-4AAD-B80D-EC23969A681C}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3481F0C7-1897-4AAD-B80D-EC23969A681C}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\samenezes\\desktop\\poo\\crudblazor\\crudblazor\\migrations\\20240604224535_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3481F0C7-1897-4AAD-B80D-EC23969A681C}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\migrations\\20240604224535_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3481F0C7-1897-4AAD-B80D-EC23969A681C}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\samenezes\\desktop\\poo\\crudblazor\\crudblazor\\components\\pages\\produtopages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3481F0C7-1897-4AAD-B80D-EC23969A681C}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\components\\pages\\produtopages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3481F0C7-1897-4AAD-B80D-EC23969A681C}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\samenezes\\desktop\\poo\\crudblazor\\crudblazor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3481F0C7-1897-4AAD-B80D-EC23969A681C}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3481F0C7-1897-4AAD-B80D-EC23969A681C}|CrudBlazor\\CrudBlazor.csproj|c:\\users\\samenezes\\desktop\\poo\\crudblazor\\crudblazor\\data\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3481F0C7-1897-4AAD-B80D-EC23969A681C}|CrudBlazor\\CrudBlazor.csproj|solutionrelative:crudblazor\\data\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C531944E-6A69-4997-A004-25E6723D8300}|CrudBlazor.Client\\CrudBlazor.Client.csproj|c:\\users\\samenezes\\desktop\\poo\\crudblazor\\crudblazor.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C531944E-6A69-4997-A004-25E6723D8300}|CrudBlazor.Client\\CrudBlazor.Client.csproj|solutionrelative:crudblazor.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C531944E-6A69-4997-A004-25E6723D8300}|CrudBlazor.Client\\CrudBlazor.Client.csproj|c:\\users\\samenezes\\desktop\\poo\\crudblazor\\crudblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C531944E-6A69-4997-A004-25E6723D8300}|CrudBlazor.Client\\CrudBlazor.Client.csproj|solutionrelative:crudblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "CrudBlazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "CrudBlazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCsAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T23:18:30.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240604224535_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor\\Migrations\\20240604224535_Inicial.cs",
+              "RelativeDocumentMoniker": "CrudBlazor\\Migrations\\20240604224535_Inicial.cs",
+              "ToolTip": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor\\Migrations\\20240604224535_Inicial.cs",
+              "RelativeToolTip": "CrudBlazor\\Migrations\\20240604224535_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:45:35.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor\\Components\\Pages\\ProdutoPages\\Create.razor",
+              "RelativeDocumentMoniker": "CrudBlazor\\Components\\Pages\\ProdutoPages\\Create.razor",
+              "ToolTip": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor\\Components\\Pages\\ProdutoPages\\Create.razor",
+              "RelativeToolTip": "CrudBlazor\\Components\\Pages\\ProdutoPages\\Create.razor",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T22:25:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CrudBlazor\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CrudBlazor\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:54:32.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor\\Data\\Produto.cs",
+              "RelativeDocumentMoniker": "CrudBlazor\\Data\\Produto.cs",
+              "ToolTip": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor\\Data\\Produto.cs",
+              "RelativeToolTip": "CrudBlazor\\Data\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:49:08.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "CrudBlazor.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "CrudBlazor.Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T21:43:42.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor.Client\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "CrudBlazor.Client\\Pages\\Auth.razor",
+              "ToolTip": "C:\\Users\\samenezes\\Desktop\\poo\\CrudBlazor\\CrudBlazor.Client\\Pages\\Auth.razor",
+              "RelativeToolTip": "CrudBlazor.Client\\Pages\\Auth.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T21:43:34.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

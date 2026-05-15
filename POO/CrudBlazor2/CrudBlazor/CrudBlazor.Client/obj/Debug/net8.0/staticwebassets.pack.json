@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\POO\\CrudBlazor\\CrudBlazor.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "H:\\POO\\CrudBlazor\\CrudBlazor.Client\\obj\\Debug\\net8.0\\compressed\\146c720a8g.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "H:\\POO\\CrudBlazor\\CrudBlazor.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "H:\\POO\\CrudBlazor\\CrudBlazor.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CrudBlazor.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CrudBlazor.Client.props",
+      "PackagePath": "build\\CrudBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CrudBlazor.Client.props",
+      "PackagePath": "buildMultiTargeting\\CrudBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CrudBlazor.Client.props",
+      "PackagePath": "buildTransitive\\CrudBlazor.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

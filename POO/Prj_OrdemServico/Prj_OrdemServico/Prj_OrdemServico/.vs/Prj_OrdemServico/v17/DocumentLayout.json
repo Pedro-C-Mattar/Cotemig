@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Prj_OrdemServico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|d:\\projects\\prj_ordemservico\\prj_ordemservico\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\frmtecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\frmtecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\frmtecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\frmtecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\bll\\bll_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\bll\\bll_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\bll\\bll_tecnico .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\bll\\bll_tecnico .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\bll\\bll_setor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\bll\\bll_setor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\bll\\bll_especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\bll\\bll_especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\dto\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\dto\\dto_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|D:\\Projects\\Prj_OrdemServico\\prj_ordemservico\\dto\\dto_tecnico .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DE5999-AFA5-4B65-8DAD-550A54A59E0D}|Prj_OrdemServico\\Prj_OrdemServico.csproj|solutionrelative:prj_ordemservico\\dto\\dto_tecnico .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\FrmPrincipal.cs",
+              "ToolTip": "H:\\POO\\Prj_OrdemServico\\Prj_OrdemServico\\FrmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-21T02:08:43.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmUsuario.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\FrmUsuario.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmUsuario.cs [Design]",
+              "RelativeToolTip": "Prj_OrdemServico\\FrmUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.163Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\DAL\\Conexao.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\DAL\\Conexao.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\DAL\\Conexao.cs",
+              "RelativeToolTip": "Prj_OrdemServico\\DAL\\Conexao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUsuario.cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\FrmUsuario.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmUsuario.cs",
+              "RelativeToolTip": "Prj_OrdemServico\\FrmUsuario.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAYwH8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmTecnico.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmTecnico.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\FrmTecnico.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmTecnico.cs [Design]",
+              "RelativeToolTip": "Prj_OrdemServico\\FrmTecnico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTecnico.cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmTecnico.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\FrmTecnico.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmTecnico.cs",
+              "RelativeToolTip": "Prj_OrdemServico\\FrmTecnico.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAUwHgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLL_Usuario.cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\BLL\\BLL_Usuario.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\BLL\\BLL_Usuario.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\BLL\\BLL_Usuario.cs",
+              "RelativeToolTip": "Prj_OrdemServico\\BLL\\BLL_Usuario.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwCAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BLL_Setor.cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\BLL\\BLL_Setor.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\BLL\\BLL_Setor.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\BLL\\BLL_Setor.cs",
+              "RelativeToolTip": "Prj_OrdemServico\\BLL\\BLL_Setor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BLL_Especialidade.cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\BLL\\BLL_Especialidade.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\BLL\\BLL_Especialidade.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\BLL\\BLL_Especialidade.cs",
+              "RelativeToolTip": "Prj_OrdemServico\\BLL\\BLL_Especialidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DTO_Tecnico .cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\DTO\\DTO_Tecnico .cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\DTO\\DTO_Tecnico .cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\DTO\\DTO_Tecnico .cs",
+              "RelativeToolTip": "Prj_OrdemServico\\DTO\\DTO_Tecnico .cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLL_Tecnico .cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\BLL\\BLL_Tecnico .cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\BLL\\BLL_Tecnico .cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\BLL\\BLL_Tecnico .cs",
+              "RelativeToolTip": "Prj_OrdemServico\\BLL\\BLL_Tecnico .cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\FrmPrincipal.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\FrmPrincipal.cs",
+              "RelativeToolTip": "Prj_OrdemServico\\FrmPrincipal.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-21T02:08:43.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\Program.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\Program.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\Program.cs",
+              "RelativeToolTip": "Prj_OrdemServico\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DTO_Usuario.cs",
+              "DocumentMoniker": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\DTO\\DTO_Usuario.cs",
+              "RelativeDocumentMoniker": "Prj_OrdemServico\\DTO\\DTO_Usuario.cs",
+              "ToolTip": "D:\\Projects\\Prj_OrdemServico\\Prj_OrdemServico\\DTO\\DTO_Usuario.cs",
+              "RelativeToolTip": "Prj_OrdemServico\\DTO\\DTO_Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:08:43.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
