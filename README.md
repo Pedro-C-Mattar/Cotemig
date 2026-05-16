@@ -11,3 +11,4 @@ Estrutura principal:
 - POO: programação Poo e MVC em C#, e exemplos ASP.Net e Blazor (ver [POO/README.md](POO/README.md))
 - Projeto_de_Software: diagramas e desenvolvimento de um software (ver [Projeto_de_Software/README.md](Projeto_de_Software/README.md))
 - TPA: projetos de programação PHP (ver [TPA/README.md](TPA/README.md))
+- Redes: materiais de redes de computadores / hardware / elétrica (ver [Redes/README.md](Redes/README.md))
